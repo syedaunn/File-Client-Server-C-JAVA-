@@ -1,4 +1,10 @@
 # File-Client-Server-C-JAVA-
+<<<<<<< HEAD
 
 
+## Github Link: https://github.com/syedaunn/File-Client-Server-C-JAVA-
 
+
+File Server implemented in C++ and JAVA with client in each language. File Client/Server is fully cross platform compatible and can recieve files through socket connections.
+=======
+>>>>>>> 21f351970da88e83372216f01e6b1fc7dfb68132
